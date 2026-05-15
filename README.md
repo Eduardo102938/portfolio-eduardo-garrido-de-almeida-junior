@@ -43,7 +43,7 @@ Projeto | Descrição | Link |
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | SM1 - A Corrida do Prompt | Atividade prática de Engenharia de Prompt utilizando IA para geração de imagens e textos, explorando o refinamento de instruções para alcançar resultados mais precisos em poucas tentativas. | [Ver Projeto](a_corrida_do_rompt/README.md) 
-| A Corrida do Prompt | Atividade prática de Engenharia de Prompt utilizando IA para geração de imagens e textos, demonstrando como o refinamento de prompts melhora a qualidade e precisão dos resultados. | [Ver Projeto](4Readme.md) |
+| SM2 - Laboratório de Classificação Visual | Atividade prática com Teachable Machine para treinamento de um modelo de classificação visual, analisando como a limitação dos dados influencia nos erros e no desempenho da IA. | [Ver Projeto](laboratório_de_classificação_visual/README.md) |
 | RPG Meet | Aplicativo de videoconferência voltado para sessões de RPG de mesa online, com rolagem de dados integrada, chat de apoio e personalização de personagens para tornar as partidas mais imersivas e organizadas. |[Ver Projeto](rpgmeet-web)  |
 | Sistema de Identificação com IA | Atividade prática utilizando Inteligência Artificial para identificação de carros e motos através de imagens. | [Ver Projeto](Ia/5Readme.md) |
 | Engenharia Reversa | Atividade prática de engenharia reversa utilizando Inteligência Artificial para recriar um sistema observando apenas sua interface, sem acesso ao código-fonte original. | [Ver Projeto](Engenharia-Reversa/6Readme.md) |
