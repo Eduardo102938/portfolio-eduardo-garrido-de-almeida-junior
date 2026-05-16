@@ -47,6 +47,7 @@ Projeto | Descrição | Link |
 | SM3 - Batalha de Modelos & Engenharia de Prompt (XML) | Atividade prática de comparação entre diferentes modelos de IA, analisando a fidelidade ao prompt em XML, qualidade do código gerado e eficiência para prototipagem e desenvolvimento front-end. |[Ver Projeto](batalha_de_modelos_&_engenharia_de_prompt_(xml)/README.md)  |
 | SM4 - Engenharia Reversa | Atividade prática de engenharia reversa com IA, recriando um sistema a partir da análise de sua interface e refletindo sobre os impactos técnicos e éticos do desenvolvimento assistido por inteligência artificial. | [Ver Projeto](engenharia_reversa/README.md) |
 | SM5 - Do Clone ao Produto Mínimo Viável (MVP+) | Atividade prática sobre reflexão ética no uso de Inteligência Artificial para engenharia reversa, geração de sistemas e uso de conteúdos digitais. | [Ver Projeto](do_clone_ao_produto_mínimo_viável_(mvp+)/README.md) |
+| SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi | Aplicativo de videoconferência voltado para sessões de RPG de mesa online, com rolagem de dados integrada, chat de apoio e personalização de personagens para tornar as partidas mais imersivas e organizadas. | [Ver Projeto](do_clone_ao_produto_mínimo_viável_(mvp+)/README.md) |
  
 ---
  
