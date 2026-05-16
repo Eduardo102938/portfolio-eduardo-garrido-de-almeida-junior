@@ -37,7 +37,6 @@ Atualmente cursando o 2º período de Ciencia da computação na Unicid. Sou apa
 #### 🗃️ Modelagem de Banco de Dados
 Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| Desenvolvimento e Utilização de um Dicionário de Dados | Apresentação destinada ao desenvolvimento e utilização de um Dicionário de Dados | [Ver Projeto](2README.md)
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
@@ -48,6 +47,7 @@ Projeto | Descrição | Link |
 | SM4 - Engenharia Reversa | Atividade prática de engenharia reversa com IA, recriando um sistema a partir da análise de sua interface e refletindo sobre os impactos técnicos e éticos do desenvolvimento assistido por inteligência artificial. | [Ver Projeto](engenharia_reversa/README.md) |
 | SM5 - Do Clone ao Produto Mínimo Viável (MVP+) | Atividade prática sobre reflexão ética no uso de Inteligência Artificial para engenharia reversa, geração de sistemas e uso de conteúdos digitais. | [Ver Projeto](do_clone_ao_produto_mínimo_viável_(mvp+)/README.md) |
 | SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi | Aplicativo de videoconferência voltado para sessões de RPG de mesa online, com rolagem de dados integrada, chat de apoio e personalização de personagens para tornar as partidas mais imersivas e organizadas. | [Ver Projeto](desenvolvimento_de_app_de_videoconferência_com_manus_ai_e_jitsi/README.md) |
+
  
 ---
  
