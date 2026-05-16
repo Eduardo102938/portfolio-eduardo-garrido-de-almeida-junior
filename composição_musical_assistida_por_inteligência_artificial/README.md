@@ -80,7 +80,7 @@ https://suno.com/playlist/a24b7c30-48e5-4010-a18c-0175f0c6a998
 
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | O Homem do Apartamento 307 | Kamaitachi / Suspense | [Arquivo MP3](./audio/musica1.mp3) |
+| 01 | O Homem do Apartamento 307 | Kamaitachi / Suspense | [Arquivo MP3](composição_musical_assistida_por_inteligência_artificial/O Homem do Apartamento 307.mp3.mpeg) |
 | 02 | O Garoto que Conversava com Corvos | Kamaitachi / Mistério | [Arquivo MP3](./audio/musica2.mp3) |
 | 03 | A Casa no Fim da Rua | Kamaitachi / Terror | [Arquivo MP3](./audio/musica3.mp3) |
 | 04 | Menina do Casaco Vermelho | Kamaitachi / Romance sombrio | [Arquivo MP3](./audio/musica4.mp3) |
